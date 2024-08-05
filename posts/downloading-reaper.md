@@ -10,10 +10,11 @@ allow_math: true
 
 Today in class we *zoomed* through a bunch of slides. lots of stuff about the science of music, really interesting but really brief.
 Then we downloaded Reaper and learned how to drop in tracks, how to use basic fades and transitions, and how to adjust the modified and master volume.
-
-//put a screenshot of using Reaper here
 ![Messing around in reaper](/w2/ReaperDay1.png)
 
+Then we had the oppotunity to play around with the 'ZOOM H4n'
+We laernt what each button did then went outside to record some sounds...
+![Zoom outline](/w2/ZoomAnnotated.png)
 
 ## Assignment
 
