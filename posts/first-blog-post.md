@@ -30,3 +30,4 @@ So that's the plan for now... not sure if it will be a real review(as in a new m
     - Though I still don't really understand why Bluetooth would be so bad🤷‍♂️
 
 
+[Home](https://pop161516-soundblog-93.deno.dev/)

@@ -35,3 +35,5 @@ I need to remember it's only 1 minute...🙊
         - Really interesting, I've never really thought about the difference in hearing and listening and the ability of humans to create artificial sound for 'unnatural' or recreational purposes.
 - Think about Assignment 
     - again... sort of... I have a bunch of other subject assignments this week so after I've finished with them I'll lock in for this assignment 🫡
+
+[Home](https://pop161516-soundblog-93.deno.dev/)
