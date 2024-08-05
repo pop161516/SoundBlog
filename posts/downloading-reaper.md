@@ -36,4 +36,10 @@ I need to remember it's only 1 minute...🙊
 - Think about Assignment 
     - again... sort of... I have a bunch of other subject assignments this week so after I've finished with them I'll lock in for this assignment 🫡
 
+---
+
+
 [Home](https://pop161516-soundblog-93.deno.dev/)
+
+
+---
