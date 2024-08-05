@@ -1,7 +1,7 @@
 ---
 title: My first Sound Design blog post!
 published_at: 2024-7-23
-snippet: [W1] Short class as an introduction😋
+snippet: -W1- Short class as an introduction😋
 disable_html_sanitization: true
 allow_math: true
 ---

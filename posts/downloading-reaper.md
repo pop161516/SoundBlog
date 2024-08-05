@@ -1,7 +1,7 @@
 ---
 title: Downloading Reaper and trying out zoom
 published_at: 2024-7-30
-snippet: [W2] 
+snippet: -W2- 
 disable_html_sanitization: true
 allow_math: true
 ---
