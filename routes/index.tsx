@@ -12,7 +12,7 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
   const posts = props.data;
   return (
     <main class="max-w-screen-md px-4 pt-16 mx-auto">
-      <h1 class="text-5xl font-bold">Mataso's Sound Design Blog</h1>
+      <h1 class="text-5xl font-bold text-red-900">Mataso's Sound Design Blog</h1>
       <div class="mt-8">
         {posts.map((post) => <PostCard post={post} />)}
       </div>
@@ -35,7 +35,7 @@ function PostCard(props: { post: Post }) {
             day: "numeric",
           })}
         </time>
-        <div class="mt-4 text-yellow-900">
+        <div class="mt-4 text-red-200">
           {post.snippet}
         </div>
       </a>
