@@ -33,7 +33,7 @@ Still no progress on the assignment but I will get it done. I'm sure.
 ---
 
 
-<text style="background-color:CornflowerBlue; colour:white;"> [Home](https://pop161516-soundblog-93.deno.dev/) </text>
+<text style="background-color:CornflowerBlue; color:white;"> [Home](https://pop161516-soundblog-93.deno.dev/) </text>
 [Home](https://pop161516-soundblog-93.deno.dev/) 
 
 
