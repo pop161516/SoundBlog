@@ -28,14 +28,14 @@ function PostCard(props: { post: Post }) {
         <h3 class="text(3xl red-800) font-bold">
           {post.title}
         </h3>
-        <time class="text-gray-500">
+        <time class="text-red-500">
           {new Date(post.publishedAt).toLocaleDateString("en-us", {
             year: "numeric",
             month: "long",
             day: "numeric",
           })}
         </time>
-        <div class="mt-4 text-gray-900">
+        <div class="mt-4 text-yellow-900">
           {post.snippet}
         </div>
       </a>
