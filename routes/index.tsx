@@ -25,7 +25,7 @@ function PostCard(props: { post: Post }) {
   return (
     <div class="py-8 border(t gray-200)">
       <a class="sm:col-span-2" href={`/${post.slug}`}>
-        <h3 class="text(3xl gray-900) font-bold">
+        <h3 class="text(3xl red-800) font-bold">
           {post.title}
         </h3>
         <time class="text-gray-500">
