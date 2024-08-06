@@ -7,7 +7,7 @@ allow_math: true
 ---
 
 ## Class
-<h1 style="background-color:DodgerBlue;">Class</h1>
+<h2 style="color:Blue;">Class</h2>
 
 Today in class we *zoomed* through a bunch of slides. lots of stuff about the science of music, really interesting but really brief.
 Then we downloaded Reaper and learned how to drop in tracks, how to use basic fades and transitions, and how to adjust the modified and master volume.
