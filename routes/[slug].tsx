@@ -23,7 +23,7 @@ export default function PostPage(props: PageProps<Post>) {
         <style dangerouslySetInnerHTML={{ __html: KATEX_CSS }} />
       </Head>
       <main class="max-w-screen-md px-4 pt-16 mx-auto">
-        <h1 class="text-5xl font-bold text-blue-800">{post.title}</h1>
+        <h1 class="text-5xl font-bold text-blue-900">{post.title}</h1>
         <time class="text-blue-300">
           {new Date(post.publishedAt).toLocaleDateString("en-us", {
             year: "numeric",
