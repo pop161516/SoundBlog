@@ -22,7 +22,10 @@ Still no progress on the assignment but I will get it done. I'm sure.
 <h2 style="color:CornflowerBlue;">Homework</h2>
 
 - Pre-reading
-    - Really facinating, the physcology and philosophy of truth are always interesting 😋 also interesting to think about the way technologies have shaped the way we play music(and act). 
+    - First I read "David Byrne - Technology Shapes Music [How Music Works]"
+        - Really fascinating, the psoychlogy and philosophy of truth are always interesting 😋 also interesting to think about the way technologies have shaped the way we play music(and act). 
+    - Then I read "The Man And The Woman And The Edison Phonograph - Bruce Watson AJE: Australasian Journal of Ecocriticism and Cultural Ecology, Vol. 1, 2011/2012"
+        - Also interesting, I think Byrne said somthing in the previous text about the paths of history. with one small change we could be living in a completely differant world. Its great to see tht this mistake was corrected
 
 - Think about Assignment 
 ???
@@ -30,7 +33,8 @@ Still no progress on the assignment but I will get it done. I'm sure.
 ---
 
 
-[Home](https://pop161516-soundblog-93.deno.dev/)
+<text style="color:CornflowerBlue;"> [Home](https://pop161516-soundblog-93.deno.dev/) </text>
+[Home](https://pop161516-soundblog-93.deno.dev/) 
 
 
 ---
