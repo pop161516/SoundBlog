@@ -35,7 +35,7 @@ function PostCard(props: { post: Post }) {
             day: "numeric",
           })}
         </time>
-        <div class="mt-4 text-red-200">
+        <div class="mt-4 text-red-400">
           {post.snippet}
         </div>
       </a>
