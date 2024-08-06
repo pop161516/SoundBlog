@@ -33,8 +33,6 @@ Still no progress on the assignment but I will get it done. I'm sure.
 ---
 
 
-<text style="color:red-800;"> [Home](https://pop161516-soundblog-93.deno.dev/) </text>
-<text style="color:red;"> [Home](https://pop161516-soundblog-93.deno.dev/) </text>
 [Home](https://pop161516-soundblog-93.deno.dev/) 
 
 
