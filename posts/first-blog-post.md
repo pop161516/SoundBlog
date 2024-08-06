@@ -6,19 +6,18 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-## Class
+<h2 style="color:CornflowerBlue;">Class</h2>
 
 Just getting familiar with the course and had a look at the assignments. 
 We finished early 😏
 
-
-## Assignment
+<h2 style="color:CornflowerBlue;">Assignment</h2>
 
 Rob told us about the assignment. Seems pretty broad which is good... and bad🤔
 He mentioned something about being able to do an interview or a movie review... and I **LOVE** moives🤩
 So that's the plan for now... not sure if it will be a real review(as in a new movie) or I'll write a review for a movie I really like... or one I really hate😈
 
-## Homework
+<h2 style="color:CornflowerBlue;">Homework</h2>
 
 - Get the diary online ✅
     - I learnt a little bit of HTML and CSS in Digital Media Studio(DMS) last semester and thought it would be a cool way to blog... 

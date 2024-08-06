@@ -6,7 +6,6 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-## Class
 <h2 style="color:CornflowerBlue;">Class</h2>
 
 Today in class we *zoomed* through a bunch of slides. lots of stuff about the science of music, really interesting but really brief.
@@ -17,7 +16,7 @@ Then we had the oppotunity to play around with the 'ZOOM H4n'
 We laernt what each button did then went outside to record some sounds...
 ![Zoom outline](/w2/ZoomAnnotated.png)
 
-## Assignment
+<h2 style="color:CornflowerBlue;">Assignment</h2>
 
 Still thinking, haven't nailed down if I'll do a movie review yet...
 if it were a review how would the sound be used?
@@ -30,7 +29,7 @@ if it were a review how would the sound be used?
 What movie will I pick🤔
 I need to remember it's only 1 minute...🙊
 
-## Homework
+<h2 style="color:CornflowerBlue;">Homework</h2>
 
 - Pre-reading
     - I forgot whether I'm supposed to read the text before class so I can discuss or read it after to have a better understanding (because the texts seem to pretty much outline the class content🤷‍♂️)
