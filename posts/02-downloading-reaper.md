@@ -59,13 +59,13 @@ I need to remember it's only 1 minute...🙊
 </a>
 
 <div class="row">
-  <div class="column">
+  <div 
     <img src="/Images/Union-3.png" alt="Snow" width= "30">
   </div>
-  <div class="column">
+  <div 
     <img src="/Images/Union-2.png" alt="Forest" width= "40">
   </div>
-  <div class="column">
+  <div 
     <img src="/Images/Union.png" alt="Mountains" width= "30">
   </div>
 </div>
