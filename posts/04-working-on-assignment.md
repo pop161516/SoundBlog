@@ -65,7 +65,7 @@ Still no progress on the assignment but I will get it done. I'm sure.
 
 <script>
 
-    const icon_elements = Array.from (document.getElementsByTagName (`Images`))
+    const icon_elements = Array.from (document.getElementsByTagName (`img`))
     icon_elements.forEach ((element, index) => {
 
         element.onpointerover = () => {
