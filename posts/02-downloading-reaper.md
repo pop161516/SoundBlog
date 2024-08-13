@@ -70,4 +70,19 @@ I need to remember it's only 1 minute...🙊
   </div>
 </div>
 
+
+<body>
+    <div class="container">
+        <a href="/01-first-blog-post" class="button left">
+            <img src="/Images/Union-3.png" alt="Page 1">
+        </a>
+        <a href="/" class="button middle">
+            <img src="/Images/Union-2.png" alt="Page 2">
+        </a>
+        <a href="/03-learning-reaper-pt2" class="button right">
+            <img src="/Images/Union.png" alt="Page 3">
+        </a>
+    </div>
+</body>
+
 ---
