@@ -97,6 +97,60 @@ Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for
 
 -->
 
+<!--
+buttons with chnaging colours
+<style>
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px; /* Optional: Add some padding if needed */
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    /* Add additional styling for buttons if needed */
+}
+
+.button img {
+    display: block;
+}
+</style>
+
+
+<body>
+    <div class="container">
+        <a href="/01-first-blog-post" class="button left">
+            <img id= "back_id" src="/Images/white/1.png" width="30" height="30" alt="Page 1">
+        </a>
+        <a href="/" class="button middle">
+            <img id= "home_id" src="/Images/white/2.png" width="40" height="40" alt="Page 2">
+        </a>
+        <a href="/03-learning-reaper-pt2" class="button right">
+            <img id= "next_id" src="/Images/white/3.png" width="30" height="30" alt="Page 3">
+        </a>
+    </div>
+</body>
+
+
+<script>
+
+    const icon_elements = Array.from (document.getElementsByTagName (`img`))
+    icon_elements.forEach ((element, index) => {
+
+        element.onpointerover = () => {
+            element.src = `Images/dark/${ index + 1}.png`
+        }
+        element.onpointerleave = () => {
+            element.src = `Images/white/${ index + 1}.png`
+        }
+    })
+
+
+</script>
+-->
+
 
 ---
 

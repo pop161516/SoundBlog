@@ -63,19 +63,3 @@ So that's the plan for now... not sure if it will be a real review(as in a new m
     </div>
 </body>
 
-
-<script>
-
-    const icon_elements = Array.from (document.getElementsByTagName (`img`))
-    icon_elements.forEach ((element, index) => {
-
-        element.onpointerover = () => {
-            element.src = `Images/dark/${ index + 1}.png`
-        }
-        element.onpointerleave = () => {
-            element.src = `Images/white/${ index + 1}.png`
-        }
-    })
-
-
-</script>
