@@ -40,6 +40,13 @@ I need to remember it's only 1 minute...🙊
 
 ---
 
+<p style="text-align: center;">First drawing</p>
+
+<div 
+  border= 1px solid red;
+  margin-left= 100px;
+>
+
 <a href="/01-first-blog-post">
 <img src="/Images/Union-3.png" width="40" height="40">
 </a>
