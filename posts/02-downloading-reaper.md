@@ -42,18 +42,17 @@ I need to remember it's only 1 minute...🙊
 
 <p style="text-align: center;">First drawing</p>
 
-<div 
-  border= 1px solid red;
-  margin-left= 100px;
->
+
 
 <a href="/01-first-blog-post">
-<img src="/Images/Union-3.png" width="40" height="40">
+<img src="/Images/Union-3.png" width="30" height="30">
 </a>
 
+<p style="text-align: center;">
 <a href="/">
 <img src="/Images/Union-2.png" width="50" height="50">
 </a>
+</p>
 
 <a href="/03-learning-reaper-pt2">
 <img src="/Images/Union.png" width="40" height="40">
