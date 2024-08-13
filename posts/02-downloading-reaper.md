@@ -6,6 +6,15 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Buttons</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
 <h2 style="color:CornflowerBlue;">Class</h2>
 
 Today in class we *zoomed* through a bunch of slides. lots of stuff about the science of music, really interesting but really brief.
