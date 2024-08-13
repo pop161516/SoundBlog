@@ -29,9 +29,37 @@ So that's the plan for now... not sure if it will be a real review(as in a new m
     - Though I still don't really understand why Bluetooth would be so bad🤷‍♂️
 
 ---
+<style>
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px; /* Optional: Add some padding if needed */
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    /* Add additional styling for buttons if needed */
+}
+
+.button img {
+    display: block;
+}
+</style>
 
 
-[Home](https://pop161516-soundblog-93.deno.dev/)
-
-
+<body>
+    <div class="container">
+        <a>
+            <img src="/Images/Empty.png" width="30" height="30" alt="Page 1">
+        </a>
+        <a href="/" class="button middle">
+            <img src="/Images/Union-2.png" width="40" height="40" alt="Page 2">
+        </a>
+        <a href="/03-learning-reaper-pt2" class="button right">
+            <img src="/Images/Union.png" width="30" height="30" alt="Page 3">
+        </a>
+    </div>
+</body>
 ---
