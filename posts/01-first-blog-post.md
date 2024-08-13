@@ -63,6 +63,4 @@ So that's the plan for now... not sure if it will be a real review(as in a new m
     </div>
 </body>
 
-
-
-![space filler](/Images/white/0.png)
+<img src="/Images/white/0.png" width="30" height="30" alt="Page 3">

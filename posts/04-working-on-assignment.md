@@ -62,6 +62,4 @@ Still no progress on the assignment but I will get it done. I'm sure.
     </div>
 </body>
 
-
-
 <img src="/Images/white/0.png" width="30" height="30" alt="Page 3">

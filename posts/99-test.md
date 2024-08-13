@@ -97,8 +97,8 @@ Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for
 
 -->
 
-<!--
 buttons with chnaging colours
+
 <style>
 .container {
     display: flex;
@@ -149,13 +149,5 @@ buttons with chnaging colours
 
 
 </script>
--->
 
 
----
-
-
-[Home](https://pop161516-soundblog-93.deno.dev/)
-
-
----
