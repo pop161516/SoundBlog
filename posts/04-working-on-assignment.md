@@ -6,10 +6,11 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<h2 class="text-blue-500">Class</h2>
+<h2 style="color:CornflowerBlue;">Class</h2>
 
 **Super** short lecture.
-then I had some class time to work on my assignment
+
+Then I had some class time to work on my assignment.
 
 <h2 style="color:CornflowerBlue;">Assignment</h2>
 
