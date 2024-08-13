@@ -28,7 +28,7 @@ Still no progress on the assignment but I will get it done. I'm sure.
         - Also interesting, I think Byrne said somthing in the previous text about the paths of history. with one small change we could be living in a completely differant world. Its great to see tht this mistake was corrected
 
 - Think about Assignment 
-???
+Ok... for now lets go with the movie review
 
 ---
 
