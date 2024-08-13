@@ -52,7 +52,7 @@ So that's the plan for now... not sure if it will be a real review(as in a new m
 <body>
     <div class="container">
         <a>
-            <img id= "back_id" src="/Images/white/1.png" width="30" height="30" alt="Page 1">
+            <img id= "back_id" src="/Images/white/0.png" width="30" height="30" alt="Page 1">
         </a>
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/white/2.png" width="40" height="40" alt="Page 2">
