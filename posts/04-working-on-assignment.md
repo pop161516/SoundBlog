@@ -65,16 +65,15 @@ Still no progress on the assignment but I will get it done. I'm sure.
 
 <script>
 
-    const icon_elements = Array.from (document.getElementsByTagName (`img`))
+    const icon_elements = Array.from (document.getElementsByTagName (`Images`))
     icon_elements.forEach ((element, index) => {
-        const audio = new Audio (`sounds/${ index }.mp3`)
+
         element.onpointerover = () => {
-            element.src = `img/changed/${ index }.png`
+            element.src = `Images/dark/${ index }.png`
         }
         element.onpointerleave = () => {
-            element.src = `img/original/${ index }.png`
+            element.src = `Images/white/${ index }.png`
         }
-        element.onpointerdown = () => audio.play ()
     })
 
 
