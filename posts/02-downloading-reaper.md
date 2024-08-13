@@ -40,8 +40,16 @@ I need to remember it's only 1 minute...🙊
 
 ---
 
+<a href="/01-first-blog-post">
+<img src="/Images/Union-3.png" width="40" height="40">
+</a>
 
-[Home](https://pop161516-soundblog-93.deno.dev/)
+<a href="/">
+<img src="/Images/Union-2.png" width="50" height="50">
+</a>
 
+<a href="/03-learning-reaper-pt2">
+<img src="/Images/Union.png" width="40" height="40">
+</a>
 
 ---
