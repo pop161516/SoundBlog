@@ -107,9 +107,10 @@ I just copyed the hover code from DMS assignment 2 but took away the lines about
 
 Currently works perfectly when there are no other images on the page. when I add images in the page they are included and they change when hovered.
 
-commented out below are some images, when un-commented the script gets messed up. how can I make the script only apply to the bottom three images... do it have somthing to do with the id's? I dont remember why I had to add id's.
+Commented out below are some images, when un-commented the script includes them insted of just the buttons on the bottom. how can I make the script only apply to the bottom three images... do it have somthing to do with the id's? I dont remember why I had to add id's.
 
 ![Emperor Tamarin](/Images/test/emperor-tamarin.JPG)
+<img src="/Images/test/golden-tamarin.png">
 
 <style>
 .container {
