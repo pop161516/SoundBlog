@@ -64,4 +64,4 @@ Still no progress on the assignment but I will get it done. I'm sure.
 
 
 
-![space filler](/Images/white/0.png)
+<img src="/Images/white/0.png" width="30" height="30" alt="Page 3">
