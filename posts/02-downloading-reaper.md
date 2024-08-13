@@ -72,3 +72,20 @@ I need to remember it's only 1 minute...🙊
         </a>
     </div>
 </body>
+
+
+<script>
+
+    const icon_elements = Array.from (document.getElementsByTagName (`img`))
+    icon_elements.forEach ((element, index) => {
+
+        element.onpointerover = () => {
+            element.src = `Images/dark/${ index + 1}.png`
+        }
+        element.onpointerleave = () => {
+            element.src = `Images/white/${ index + 1}.png`
+        }
+    })
+
+
+</script>
