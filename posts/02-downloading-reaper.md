@@ -6,15 +6,6 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Buttons</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-
 <h2 style="color:CornflowerBlue;">Class</h2>
 
 Today in class we *zoomed* through a bunch of slides. lots of stuff about the science of music, really interesting but really brief.
@@ -48,36 +39,24 @@ I need to remember it's only 1 minute...🙊
     - again... sort of... I have a bunch of other subject assignments this week so after I've finished with them I'll lock in for this assignment 🫡
 
 ---
+<style>
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px; /* Optional: Add some padding if needed */
+}
 
-<p style="text-align: center;">First drawing</p>
+.button {
+    display: flex;
+    align-items: center;
+    /* Add additional styling for buttons if needed */
+}
 
-
-
-<a href="/01-first-blog-post">
-<img src="/Images/Union-3.png" width="30" height="30">
-</a>
-
-<p style="text-align: center;">
-<a href="/">
-<img src="/Images/Union-2.png" width="50" height="50">
-</a>
-</p>
-
-<a href="/03-learning-reaper-pt2">
-<img src="/Images/Union.png" width="40" height="40">
-</a>
-
-<div class="row">
-  <div class="column">
-    <img src="/Images/Union-3.png" alt="Snow" width= "30">
-  </div>
-  <div class="column">
-    <img src="/Images/Union-2.png" alt="Forest" width= "40">
-  </div>
-  <div class="column">
-    <img src="/Images/Union.png" alt="Mountains" width= "30">
-  </div>
-</div>
+.button img {
+    display: block;
+}
+</style>
 
 
 <body>
