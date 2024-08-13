@@ -52,14 +52,13 @@ So that's the plan for now... not sure if it will be a real review(as in a new m
 <body>
     <div class="container">
         <a>
-            <img src="/Images/Empty.png" width="30" height="30" alt="Page 1">
+            <img src="/Images/white/1.png" width="30" height="30" alt="Page 1">
         </a>
         <a href="/" class="button middle">
-            <img src="/Images/Union-2.png" width="40" height="40" alt="Page 2">
+            <img src="/Images/white/3.png" width="40" height="40" alt="Page 2">
         </a>
         <a href="/03-learning-reaper-pt2" class="button right">
-            <img src="/Images/Union.png" width="30" height="30" alt="Page 3">
+            <img src="/Images/white/4.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
 </body>
----

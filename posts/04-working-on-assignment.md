@@ -51,14 +51,31 @@ Still no progress on the assignment but I will get it done. I'm sure.
 <body>
     <div class="container">
         <a href="/03-learning-reaper-pt2" class="button left">
-            <img src="/Images/Union-3.png" width="30" height="30" alt="Page 1">
+            <img src="/Images/white/2.png" width="30" height="30" alt="Page 1">
         </a>
         <a href="/" class="button middle">
-            <img src="/Images/Union-2.png" width="40" height="40" alt="Page 2">
+            <img src="/Images/white/3.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/" class="button right">
-            <img src="/Images/Union.png" width="30" height="30" alt="Page 3">
+        <a
+            <img src="/Images/white/1.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
 </body>
----
+
+
+<script>
+
+    const icon_elements = Array.from (document.getElementsByTagName (`img`))
+    icon_elements.forEach ((element, index) => {
+        const audio = new Audio (`sounds/${ index }.mp3`)
+        element.onpointerover = () => {
+            element.src = `img/changed/${ index }.png`
+        }
+        element.onpointerleave = () => {
+            element.src = `img/original/${ index }.png`
+        }
+        element.onpointerdown = () => audio.play ()
+    })
+
+
+</script>

@@ -54,14 +54,13 @@ Ok... for now lets go with the movie review
 <body>
     <div class="container">
         <a href="/02-downloading-reaper" class="button left">
-            <img src="/Images/Union-3.png" width="30" height="30" alt="Page 1">
+            <img src="/Images/white/2.png" width="30" height="30" alt="Page 1">
         </a>
         <a href="/" class="button middle">
-            <img src="/Images/Union-2.png" width="40" height="40" alt="Page 2">
+            <img src="/Images/white/3.png" width="40" height="40" alt="Page 2">
         </a>
         <a href="/04-working-on-assignment" class="button right">
-            <img src="/Images/Union.png" width="30" height="30" alt="Page 3">
+            <img src="/Images/white/4.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
 </body>
----
