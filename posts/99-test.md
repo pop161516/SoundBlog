@@ -6,6 +6,10 @@ disable_html_sanitization: true
 allow_math: true
 ---
 <!--
+
+collapes all of this, its just the intro stuff from the master copy of the site.
+
+
 # This is h1 
 
 ![a drippy lemon](logo.svg)
@@ -97,7 +101,15 @@ Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for
 
 -->
 
-buttons with chnaging colours
+Buttons with changing colours
+
+I just copyed the hover code from DMS assignment 2 but took away the lines about sound. (I also added + 1 to the index, dont remember why. maybe becasue there is a blank png at 0.png so I might have needed to pushed up the others) and CSS from ChatGTP🧎‍♂️‍➡️
+
+Currently works perfectly when there are no other images on the page. when I add images in the page they are included and they change when hovered.
+
+commented out below are some images, when un-commented the script gets messed up. how can I make the script only apply to the bottom three images... do it have somthing to do with the id's? I dont remember why I had to add id's.
+
+![Emperor Tamarin](/Images/test/emperor-tamarin.JPG)
 
 <style>
 .container {
@@ -122,13 +134,13 @@ buttons with chnaging colours
 <body>
     <div class="container">
         <a href="/01-first-blog-post" class="button left">
-            <img id= "back_id" src="/Images/white/1.png" width="30" height="30" alt="Page 1">
+            <img id= "back_id" src="/Images/white/1.png" width="30" height="30">
         </a>
         <a href="/" class="button middle">
-            <img id= "home_id" src="/Images/white/2.png" width="40" height="40" alt="Page 2">
+            <img id= "home_id" src="/Images/white/2.png" width="40" height="40">
         </a>
         <a href="/03-learning-reaper-pt2" class="button right">
-            <img id= "next_id" src="/Images/white/3.png" width="30" height="30" alt="Page 3">
+            <img id= "next_id" src="/Images/white/3.png" width="30" height="30">
         </a>
     </div>
 </body>
