@@ -20,7 +20,10 @@ I had to keep reminding myself of the 1-3 minute time restriction, because I kep
 
 I ended up writing about the MIFF(Melbourneebourn International Film Festival) becuase it had just started and I'd been keen to see some new movies for a while.
 
-> *Intro sound
+<p>(super dodgy)Google automatic transcript:</p>
+<button type="button" class="collapsible">Collaps text</button>
+<div class="content">
+  <p>*Intro sound
 Hey everyone thanks for tuning in, I'm Mataso and today we have a pretty special episode because we'll be discussing the MIFF, 
 *sparkle
 yes the Melbourne International Film Festival is back in full swing with its 72nd celebration of film, featuring tonnes of great new movies from local and abroad. In this series, I'll talk you through some of the films I've had the pleasure of catching so hopefully you can snag up one of the tickets for yourself 
@@ -42,7 +45,8 @@ In terms of collections of animations, I also had the opportunity to see the Mel
 *star/holy sound plays 
 If you're into animation of any kind, or want a laugh or cry I would highly suggest their screenings. Particularly in terms of diversity in animation techniques.
 Anyway, I hope you've enjoyed this episode and I'll to see you back here next week when I'll go through some of the other films and shorts I got to see while the MIFF's on. see you next time.
-*outro
+*outro</p>
+</div>
 
 <h2 style="color:CornflowerBlue;">Homework</h2>
 
@@ -54,6 +58,24 @@ Anyway, I hope you've enjoyed this episode and I'll to see you back here next we
 
 - Think about Assignment 
 ???
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
 
 ---
 <style>
