@@ -52,7 +52,7 @@ I ended up writing about the MIFF(Melbourneebourn International Film Festival) b
 </head>
 <body>
 
-<p>(super dodgy)Google automatic transcript:</p>
+<p>Initial script:</p>
 <button type="button" class="collapsible">Collaps text</button>
 <div class="content">
   <p>*Intro sound
