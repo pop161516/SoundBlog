@@ -11,6 +11,7 @@ allow_math: true
 **Super** short lecture.
 
 Then I had some class time to work on my assignment.
+(In truth I had already worked a bunch on the script so I just spent the class making the buttons for the bottom of each post and colouring the posts.)
 
 <h2 style="color:CornflowerBlue;">Assignment</h2>
 
@@ -52,7 +53,7 @@ I ended up writing about the MIFF(Melbourne International Film Festival) because
 </head>
 <body>
 
-<p>Initial script:</p>
+<p>Final script:</p>
 <button type="button" class="collapsible">Collaps text</button>
 <div class="content">
   <p>*Intro sound
@@ -114,16 +115,18 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 
+I realise I didn't need to make so many sounds (the assignment only asks for three) but I was enjoying thinking of them and I'm sure I'll love recording them!
+
+I didn't get around to recording or editing but I've got another week and I'm sure with the baseline I can get it together pretty quickly
+
 <h2 style="color:CornflowerBlue;">Homework</h2>
 
 - Pre-reading
-    - First I read "David Byrne - Technology Shapes Music [How Music Works]"
-        - Really fascinating, the psoychlogy and philosophy of truth are always interesting 😋 also interesting to think about the way technologies have shaped the way we play music(and act). 
-    - Then I read "The Man And The Woman And The Edison Phonograph - Bruce Watson AJE: Australasian Journal of Ecocriticism and Cultural Ecology, Vol. 1, 2011/2012"
-        - Also interesting, I think Byrne said somthing in the previous text about the paths of history. with one small change we could be living in a completely differant world. Its great to see tht this mistake was corrected
+    - I Didn't find anything on Canvas🙀
+        - But it didn't feel like a very *profound* class, maybe the homework was just to think about sound in media. In which case I'm always pointing out diegetic and meta-diegetic sound in moives😁 
 
 - Think about Assignment 
-???
+    - Script🫡
 
 
 </body>
