@@ -27,7 +27,7 @@ I ended up writing about the MIFF(Melbourne International Film Festival) because
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .collapsible {
-  background-color: #dd524c;
+  background-color: #6d91e1;
   color: white;
   border-radius: 50px;
   cursor: pointer;
