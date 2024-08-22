@@ -20,6 +20,38 @@ I had to keep reminding myself of the 1-3 minute time restriction, because I kep
 
 I ended up writing about the MIFF(Melbourneebourn International Film Festival) becuase it had just started and I'd been keen to see some new movies for a while.
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #dd524c;
+  color: white;
+  border-radius: 50px;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
 <p>(super dodgy)Google automatic transcript:</p>
 <button type="button" class="collapsible">Collaps text</button>
 <div class="content">
@@ -76,6 +108,9 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 
+
+</body>
+</html>
 
 ---
 <style>
