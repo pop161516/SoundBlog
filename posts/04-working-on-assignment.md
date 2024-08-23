@@ -117,7 +117,7 @@ for (i = 0; i < coll.length; i++) {
 
 I realise I didn't need to make so many sounds (the assignment only asks for three) but I was enjoying thinking of them and I'm sure I'll love recording them!
 
-I didn't get around to recording or editing but I've got another week and I'm sure with the baseline I can get it together pretty quickly
+I also started recording some sounds before I'd started my script, just around cinemas. I got some audio of me crunched down popcorn and slurping a sprite. I also got some applause and background chatter while I was sitting in the theatre.
 
 <h2 style="color:CornflowerBlue;">Homework</h2>
 

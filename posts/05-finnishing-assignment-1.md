@@ -8,24 +8,65 @@ allow_math: true
 
 <h2 style="color:CornflowerBlue;">Class</h2>
 
-**Super** short lecture.
+The lecture was cool... we talked about music theory and how to use a MIDI(Musical Instrument Digital Interface) in Reaper.
+I've plated a bit of piano and guitar so I could grasp the music theory concepts but I feel like the people who might not know na instrument may have struggled to keep up or remember some of the stuff we brushed over.🫠
 
-Then I had some class time to work on my assignment.
+🫣I also left early(as in when the lecture finished) this week... because I wanted to borrow a Zoom Mic and get straight to recording... 😡It's really annoying how you can't borrow equipment for more than a day... but I guess it forces me to be prodctive🤷‍♂️
 
 <h2 style="color:CornflowerBlue;">Assignment</h2>
 
-Still no progress on the assignment but I will get it done. I'm sure.
+Ok... we got it all done😅
+
+First I used the Zoom mic I'd borrowed to record myself reading the script. Pretty easy.
+Then I went down the list of the sound effects in my script and found things in my house to make the noise. 
+- skipped intro and outro... for now
+- skipped sparkle
+- Background talking, I mentioned in an earlier blog post I had been recording background sounds of people talking at the cinema.
+- Pig noise, I was originally going to use the snippet we were given in class but it's more fun to oink yourself🐽
+- Paper folds, I didn't like the sounds of my paper folds(they weren't as recognisable as I wanted) so I pivoted to pen scribble sounds, even though it dosen't quite fit what I was saying I think the message gets across.
+- skipped holy sound.
+
+Then I edited them all together, cutting out all the bad takes of my script read and leaving space for sound effects.
+
+Next, I went back to the ones I'd skipped and looked on a sound library. <a href="https://freesound.org/ "> freesound.org </a> 
+
+I found some amazing aura and sparkle sounds that I bookmarked for future projects...
+
+<h3 style="color:CornflowerBlue;">Attributions:</h3>
+Sparkle sound after MIFF: 
+
+achievement-sparkle by pigeonfriend -- https://freesound.org/s/715067/ -- License: Creative Commons 0 
+
+Aura sound after MIAF:
+
+Holy Mysterious Ambiance Drone (Loopable) by EminYILDIRIM -- https://freesound.org/s/621588/ -- License: Attribution 4.0
+
+I also added in a few extras sounds like...
+- Coins being snatched, recorded by yours truly
+- Waves in an ocean.
+    - found on <a href="https://freesound.org/ "> freesound.org </a> **Attribution:** west coast waves at Henne beach 2011-12-28.wav by Kyster -- https://freesound.org/s/140216/ -- License: Attribution 4.0
+- Clapping sounds, recorded by me at the MIFF
+
+Finally, I used the tutorials from class to construct an intro/outro tune. I started by playing the tune on a piano at home, then playing it into the MIDI.
+
+Finding the right sound and messing with the attack, decay, sustain, volume and pitch was lots of fun and great to learn.
+
+I found that I The MIDI didn't play two notes at once, just the higher one. So I ended up making a second track wth a base to accompany the melody. I used the same sound for the intro and outro.
+
+Then the music part of the assignment was all done✅
+Exported and vuala...
+
+![Full project](/w5/FullProject.png)
+
+Then came the refelction...
 
 <h2 style="color:CornflowerBlue;">Homework</h2>
 
 - Pre-reading
-    - First I read "David Byrne - Technology Shapes Music [How Music Works]"
-        - Really fascinating, the psoychlogy and philosophy of truth are always interesting 😋 also interesting to think about the way technologies have shaped the way we play music(and act). 
-    - Then I read "The Man And The Woman And The Edison Phonograph - Bruce Watson AJE: Australasian Journal of Ecocriticism and Cultural Ecology, Vol. 1, 2011/2012"
-        - Also interesting, I think Byrne said somthing in the previous text about the paths of history. with one small change we could be living in a completely differant world. Its great to see tht this mistake was corrected
+    - ...
 
-- Think about Assignment 
-???
+- Finnish Assignment 
+All done✅
 
 ---
 <style>
