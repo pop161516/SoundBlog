@@ -71,6 +71,17 @@ Below should be an embed...
 
 <iframe src="https://rmiteduau-my.sharepoint.com/personal/s4089062_student_rmit_edu_au/_layouts/15/Doc.aspx?sourcedoc={f67ccc43-a5ca-442d-8e21-74f10428c805}&amp;action=embedview" width=100% height="800px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+    <audio controls>
+  <source src="/w5/MatasoChung_4089062_SoundAssignment1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+    </audio>
+</body>
 
 
 <h2 style="color:CornflowerBlue;">Homework</h2>
