@@ -6,7 +6,6 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<img src="/test/ferris.gif" alt="effect" width="800"/> 
 <img style="border:10px outset silver;" src="test/ferris.gif" width="800" alt="ferris"
 
 <!--
@@ -33,7 +32,6 @@ Hyperlinks can be written like this: `[text](https://URL)`
 You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
 ## Maths:
-
 ... which can be written inline, like this: $\{ x, y, z \} \in \N$
 
 ... or block, like this:
@@ -113,7 +111,6 @@ Currently works perfectly when there are no other images on the page. when I add
 
 Commented out below are some images, when un-commented the script includes them insted of just the buttons on the bottom. how can I make the script only apply to the bottom three images... do it have somthing to do with the id's? I dont remember why I had to add id's.
 
-<!--
 ![Emperor Tamarin](/Images/test/emperor-tamarin.JPG)
 <img src="/Images/test/golden-tamarin.png">
 
