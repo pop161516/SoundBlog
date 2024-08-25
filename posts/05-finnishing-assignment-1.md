@@ -61,15 +61,15 @@ Exported and vuala...
 
 ![Full project](/w5/FullProject.png)
 
-Then came the refelction...
+**Then came the reflection...**
 
-This was super easy too...
+I just smashed it out, slapped some images in there + the script + references then hit submit.💪
 
-Just smashed it out, slapped some images in there + the script + references then hit submit.
-
-Below should be an embed...
+Below should be an embed...🤞
 
 <iframe src="https://rmiteduau-my.sharepoint.com/personal/s4089062_student_rmit_edu_au/_layouts/15/Doc.aspx?sourcedoc={f67ccc43-a5ca-442d-8e21-74f10428c805}&amp;action=embedview" width=100% height="800px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+And the audio(it may be more compressed than the one I submitted on the assignment because I compressed it to an mp3 for the site.)
 
 <!DOCTYPE html>
 <html>
