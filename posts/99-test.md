@@ -1,6 +1,6 @@
 ---
 title: Test
-published_at: 1-1-1
+published_at: 1986-8-21
 snippet: just a test... nothin to see here
 disable_html_sanitization: true
 allow_math: true
