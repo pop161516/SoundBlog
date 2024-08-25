@@ -1,7 +1,7 @@
 ---
 title: Finnishing assignment 1
 published_at: 2024-8-20
-snippet: -W4- Crunch time 🦷
+snippet: -W5- Crunch time 🦷
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -53,17 +53,30 @@ Finding the right sound and messing with the attack, decay, sustain, volume and 
 
 I found that I The MIDI didn't play two notes at once, just the higher one. So I ended up making a second track wth a base to accompany the melody. I used the same sound for the intro and outro.
 
+![Full project](/w5/MIDInotes.png)
+
 Then the music part of the assignment was all done✅
+
 Exported and vuala...
 
 ![Full project](/w5/FullProject.png)
 
 Then came the refelction...
 
+This was super easy too...
+
+Just smashed it out, slapped some images in there + the script + references then hit submit.
+
+Below should be an embed...
+
+<iframe src="https://rmiteduau-my.sharepoint.com/personal/s4089062_student_rmit_edu_au/_layouts/15/Doc.aspx?sourcedoc={f67ccc43-a5ca-442d-8e21-74f10428c805}&amp;action=embedview" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+
+
 <h2 style="color:CornflowerBlue;">Homework</h2>
 
 - Pre-reading
-    - ...
+    - not done yet but soon... I will update this when I've read it👀
 
 - Finnish Assignment 
 All done✅
