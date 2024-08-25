@@ -1,10 +1,14 @@
 ---
 title: Test
 published_at: 1-1-1
-snippet: just a test... no need to look here
+snippet: just a test... nothin to see here
 disable_html_sanitization: true
 allow_math: true
 ---
+
+<img src="/test/ferris.gif" alt="effect" width="800"/> 
+<img style="border:10px outset silver;" src="test/ferris.gif" width="800" alt="ferris"
+
 <!--
 
 collapes all of this, its just the intro stuff from the master copy of the site.
@@ -99,7 +103,7 @@ Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for
 </script>
 
 
--->
+
 
 Buttons with changing colours
 
@@ -112,7 +116,7 @@ Commented out below are some images, when un-commented the script includes them 
 <!--
 ![Emperor Tamarin](/Images/test/emperor-tamarin.JPG)
 <img src="/Images/test/golden-tamarin.png">
--->
+
 
 <style>
 .container {
@@ -166,3 +170,4 @@ Commented out below are some images, when un-commented the script includes them 
 </script>
 
 
+-->

@@ -87,7 +87,7 @@ And the audio(it may be more compressed than the one I submitted on the assignme
 <h2 style="color:CornflowerBlue;">Homework</h2>
 
 - Pre-reading
-    - not done yet but soon... I will update this when I've read it👀
+    - not done yet... but soon... I'll update this when I've read it👀
 
 - Finnish Assignment 
 All done✅
