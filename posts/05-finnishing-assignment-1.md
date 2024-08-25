@@ -69,7 +69,7 @@ Just smashed it out, slapped some images in there + the script + references then
 
 Below should be an embed...
 
-<iframe src="https://rmiteduau-my.sharepoint.com/personal/s4089062_student_rmit_edu_au/_layouts/15/Doc.aspx?sourcedoc={f67ccc43-a5ca-442d-8e21-74f10428c805}&amp;action=embedview" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://rmiteduau-my.sharepoint.com/personal/s4089062_student_rmit_edu_au/_layouts/15/Doc.aspx?sourcedoc={f67ccc43-a5ca-442d-8e21-74f10428c805}&amp;action=embedview" width=100% height=100% frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 
 
