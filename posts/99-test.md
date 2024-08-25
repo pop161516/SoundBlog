@@ -6,7 +6,8 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<img style="border:10px outset silver;" src="test/ferris.gif" width="800" alt="ferris"
+
+<img style="border:10px outset silver;" src="test/ferris.gif" width="800" alt="ferris" />
 
 <!--
 
