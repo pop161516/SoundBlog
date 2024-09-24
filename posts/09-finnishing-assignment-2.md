@@ -7,28 +7,28 @@ allow_math: true
 ---
 
 <h2 style="color:CornflowerBlue;">Class</h2>
-Theory class 🤔
+Lecture and class work today
 
 Learnt about:
- - Differant Pitches & Frequencies
- - Timbre
- - Sound Envelopes
- - Reverb
- - Foley
- - The Doppler Effect
- - and some other stuff on Volume and Equalisation
+ - Synchresis, coined by Michel Chion referse to the connection to sound and visuals 
+ - The "Audiovisual Contract"
+ - How can we use this?
+   - realism and materialism or ironicly to defy expectations 🤷
+ - Misattribution
+
+ - ASSIGNMENT 3!!!
 
 <h2 style="color:CornflowerBlue;">Assignment</h2>
 
-Assingment one all done, we had a little look at assignment two in class and it looks chill so I'll leave it till after the break.
+I will write my work in here later
 
 <h2 style="color:CornflowerBlue;">Homework</h2>
 
 - Pre-reading
-    - I read "Robert L. Mott - What Is A Sound Effect? [Sound effects: Radio TV and Film]" pretty much just some more depth on the stuff we talked about in calss. 
+    donno might write in here later?
 
 - Think about Assignment 
-🙅🏼 nope
+    yurrp?
 
 ---
 <style>
