@@ -12,7 +12,13 @@ Rob was sick to I stayed home and got started on the asssignment🫡
 
 <h2 style="color:CornflowerBlue;">Assignment</h2>
 
----
+plan:
+- took at assignment again
+- plan in book
+- record
+- midi 
+- sound edit
+- video edit
 
 <h2 style="color:CornflowerBlue;">Homework</h2>
 
