@@ -1,7 +1,7 @@
 ---
 title: Synchresis and Misattribution + Finnishing assignment 2
 published_at: 2024-8-27
-snippet: -W9- **Look'n up👀** n' **Cook'n up🧑‍🍳**
+snippet: -W9- Look'n up👀 n' Cook'n up🧑‍🍳
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -53,13 +53,13 @@ Assingment one all done, we had a little look at assignment two in class and it 
 
 <body>
     <div class="container">
-        <a href="/02-downloading-reaper" class="button left">
+        <a href="/08-free-time-class" class="button left">
             <img id= "back_id" src="/Images/white/1.png" width="30" height="30" alt="Page 1">
         </a>
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/white/2.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/04-working-on-assignment" class="button right">
+        <a href="/10-finnal-class" class="button right">
             <img id= "next_id" src="/Images/white/3.png" width="30" height="30" alt="Page 3">
         </a>
     </div>

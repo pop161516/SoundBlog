@@ -53,13 +53,13 @@ No progress yet... but soon... I'm sure of it
 
 <body>
     <div class="container">
-        <a href="/02-downloading-reaper" class="button left">
+        <a href="/06-sound-theory" class="button left">
             <img id= "back_id" src="/Images/white/1.png" width="30" height="30" alt="Page 1">
         </a>
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/white/2.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/04-working-on-assignment" class="button right">
+        <a href="/08-free-time-class" class="button right">
             <img id= "next_id" src="/Images/white/3.png" width="30" height="30" alt="Page 3">
         </a>
     </div>

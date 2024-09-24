@@ -53,13 +53,13 @@ Assingment one all done, we had a little look at assignment two in class and it 
 
 <body>
     <div class="container">
-        <a href="/02-downloading-reaper" class="button left">
+        <a href="/05-finnishing-assignment-1" class="button left">
             <img id= "back_id" src="/Images/white/1.png" width="30" height="30" alt="Page 1">
         </a>
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/white/2.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/04-working-on-assignment" class="button right">
+        <a href="/07-theory-concrète" class="button right">
             <img id= "next_id" src="/Images/white/3.png" width="30" height="30" alt="Page 3">
         </a>
     </div>

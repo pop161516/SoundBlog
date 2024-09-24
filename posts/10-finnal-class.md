@@ -1,22 +1,22 @@
 ---
-title: Spare Class
+title: pop
 published_at: 2024-8-27
-snippet: -W8- Starting the second Assingment
+snippet: -W10- Final lecture class 🥲
 disable_html_sanitization: true
 allow_math: true
 ---
 
 <h2 style="color:CornflowerBlue;">Class</h2>
-Rob was sick to I stayed home and got started on the asssignment🫡 
+pop
 
 
 <h2 style="color:CornflowerBlue;">Assignment</h2>
 
----
+pop
 
 <h2 style="color:CornflowerBlue;">Homework</h2>
 
-Nothin 😁 
+pop
 
 ---
 <style>
@@ -41,13 +41,13 @@ Nothin 😁
 
 <body>
     <div class="container">
-        <a href="/07-theory-concrète" class="button left">
+        <a href="/09-finnishing assignment-2" class="button left">
             <img id= "back_id" src="/Images/white/1.png" width="30" height="30" alt="Page 1">
         </a>
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/white/2.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/09-finnishing assignment-2" class="button right">
+        <a href="/" class="button right">
             <img id= "next_id" src="/Images/white/3.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
