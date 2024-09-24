@@ -47,7 +47,7 @@ Nothin 😁
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/white/2.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/09-finnishing assignment-2" class="button right">
+        <a href="/09-finnishing-assignment-2" class="button right">
             <img id= "next_id" src="/Images/white/3.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
