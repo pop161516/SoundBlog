@@ -1,6 +1,6 @@
 ---
 title: Synchresis and Misattribution + Finnishing assignment 2
-published_at: 2024-8-27
+published_at: 2024-9-24
 snippet: -W9- Look'n up👀 n' Cook'n up🧑‍🍳
 disable_html_sanitization: true
 allow_math: true

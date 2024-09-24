@@ -1,6 +1,6 @@
 ---
 title: pop
-published_at: 2024-8-27
+published_at: 2024-10-1
 snippet: -W10- Final lecture class 🥲
 disable_html_sanitization: true
 allow_math: true

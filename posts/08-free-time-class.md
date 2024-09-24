@@ -1,6 +1,6 @@
 ---
 title: Spare Class
-published_at: 2024-8-27
+published_at: 2024-9-17
 snippet: -W8- Starting the second Assingment
 disable_html_sanitization: true
 allow_math: true

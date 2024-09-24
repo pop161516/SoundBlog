@@ -1,6 +1,6 @@
 ---
 title: More in class theory + preparing for Assignment 2
-published_at: 2024-8-27
+published_at: 2024-9-10
 snippet: -W7- 🤷
 disable_html_sanitization: true
 allow_math: true
