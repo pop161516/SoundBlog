@@ -59,7 +59,7 @@ Assingment one all done, we had a little look at assignment two in class and it 
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/white/2.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/07-theory-concrète" class="button right">
+        <a href="/07-theory-concrete" class="button right">
             <img id= "next_id" src="/Images/white/3.png" width="30" height="30" alt="Page 3">
         </a>
     </div>

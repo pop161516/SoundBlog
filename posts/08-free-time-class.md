@@ -41,7 +41,7 @@ Nothin 😁
 
 <body>
     <div class="container">
-        <a href="/07-theory-concrète" class="button left">
+        <a href="/07-theory-concrete" class="button left">
             <img id= "back_id" src="/Images/white/1.png" width="30" height="30" alt="Page 1">
         </a>
         <a href="/" class="button middle">
