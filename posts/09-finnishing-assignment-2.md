@@ -45,12 +45,7 @@ My first recordings included a bunch of other sounds like knives sharpening and 
   Your browser does not support the audio element.
     </audio>
 
-pop 
 
-poip
-
-
-</body>
 
 origional plop:
 
@@ -96,6 +91,7 @@ alarm:
 achivment:
 
 
+</body>
 
 <h2 style="color:CornflowerBlue;">Sound Diary Assingment 2</h2>
 
