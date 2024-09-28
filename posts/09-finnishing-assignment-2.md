@@ -60,7 +60,7 @@ plop with delay FX pannel:
 
 Then I tried running the smaple through a MIDI. I thought it was alright but it made me want to create the plop sound from scratch.
 I followed this vedio (even though he didn't use REAPER, I tried my best to convert the theory into the reaper defut plug-in's.)
-:<iframe width="1512" height="662" src="https://www.youtube.com/embed/NXkJn9IIJ4E" title="How to make BUBBLY SOUNDS | Serum Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:<iframe width=100% height="662" src="https://www.youtube.com/embed/NXkJn9IIJ4E" title="How to make BUBBLY SOUNDS | Serum Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I was really satiffied with the sounds I produced but I wasn't sure how to utilise them in this project?!
 
