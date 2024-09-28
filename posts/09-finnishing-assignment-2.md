@@ -44,6 +44,12 @@ My first recordings included a bunch of other sounds like knives sharpening and 
   <source src="/w9/NEWSOUND_SoundAssignment2bubble.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
     </audio>
+
+pop 
+
+poip
+
+
 </body>
 
 origional plop:
