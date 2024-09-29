@@ -114,7 +114,7 @@ Achivment:
  Your browser does not support the audio element.
  </audio>
 
-<h2 style="color:CornflowerBlue;">Sound Diary Assingment 2</h2>
+<h1 style="color:CornflowerBlue;">Sound Diary Assingment 2</h1>
 
 In response to the brief, I have produced four earcons to be used in the development of the application Cookit.
 
