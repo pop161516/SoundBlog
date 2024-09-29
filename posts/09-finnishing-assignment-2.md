@@ -37,6 +37,7 @@ My first recordings included a bunch of other sounds like knives sharpening and 
 <!DOCTYPE html>
 <html>
 <head>
+    <title>PDF in HTML</title>
 </head>
 
 origional plop:
@@ -113,11 +114,23 @@ achivment:
   Your browser does not support the audio element.
     </audio>
 
-
+</body>
 
 <h2 style="color:CornflowerBlue;">Sound Diary Assingment 2</h2>
 
 In responce to the brief 
+
+
+<body>
+
+    <h1>GeeksforGeeks</h1>
+    <h3>Embedding the PDF file Using Object Tag</h3>
+    <object class="pdf" 
+            data=
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf"
+            width="800"
+            height="500">
+    </object>
 
 
 </body>
@@ -140,6 +153,27 @@ In responce to the brief
 .button img {
     display: block;
 }
+    .pdf {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+    }
+
+    .pdf,
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    h1,
+    h3 {
+        text-align: center;
+    }
+
+    h1 {
+        color: green;
+    }
 </style>
 
 
