@@ -120,16 +120,50 @@ In response to the brief, I have produced four earcons to be used in the develop
 
 Each earcon has been custom designed to sound engaging and unique while also maintaining a synonymous style and motif that runs through each audio. A paired back and minimal approach was chosen to suit the graphic design elements included in the provided snippet. 
 
-In accordance to Meera M. Blattner, Denise A. Sumikawa, and Robert M. Greenberg's paper "Earcons and Icons: Their Structure and Common Design Principles" each earcon was made with four objectives in mind; distinctiveness, consistency, learnability and flexibility. 
+## Theoretical design 
+In accordance to Meera M. Blattner, Denise A. Sumikawa, and Robert M. Greenberg's paper "Earcons and Icons: Their Structure and Common Design Principles" each earcon was made with four objectives in mind; consistency, distinctiveness, learnability and flexibility. 
 
 **Consistency:**
-To maintain consistency each earcon was recorded using the same synthesiser. This hoans the sence of  
+To maintain consistency each earcon was recorded using the same synthesiser. This hones the sense of family and provides "advantages... in users have(ing) less to learn... (helping) make predictions about important characteristics of an unfamiliar command" 
 
-**Distinctiveness:**
-while each 
+*'Earcons and Icons: Their Structure and Common Design Principles, Page 9, 3.3. Iconic Families'*
+
+Furthermore, this bond strengthens brand identity and can create an association between reward/positive emotion and the interface of the application.  
+
+**Distinctiveness & Learnability:**
+While each sound is linked by its motif, they all start on different notes, utilise scales in different keys, and have varied patterns and durations. This creates a distinctive earcon that can be easily identified almost within the first note, thus leaving no room for confusion or mistake.
+
+**Flexibility:**
+While each sound is made for certain situations they are designed to accommodate a range of contexts for example, the alarm sound was made with the consideration that the sound could interpreted positively when it is heard the first time but becomes more urgent after each repetition, this flexibility of each audio to change in different contexts means they are more likely to synchronize to the user.
+
+**Abstract vs representational:**
+This particular earcon set shifted between abstract and representational sound. It was important to maintain the fluid and watery sound for an association with cooking while also creating a modern sleek flexible sound. The blend between the two takes the best of both worlds.
+
+## Technical development
+Each earcon was composed in REAPER using the native FX including phasers, 
+delays, and synthesisers. 
+
+FX breakdown screenshot:
+
+The design of the earcon was made to mimic the sound of water and bubbles in association with cooking while also feeling modern and applicable to multiple buttons. The earcons mostly utilise higher pitch notes (1) to catch attention for alerts and alarms and (2) because there sounds were designed for the context of a phone speaker which often lacks bass and better represents higher frequencies.
 
 
-Abstract vs representational:
+Scene screenshot:
+
+
+## Reponce to client:
+**The brief requested:** 
+**individual audios:**
+The splash screen be a "short jingle" to which I created a five-note opening sound to set the scene for the application.
+
+The push notification should be an "instant and fun" sound, leading me to create a pair of notes with a delay that emphasises playfulness.
+
+An "alerting" alarm, inspired me to make a repeating beeping to spark the user into action, while also being present.
+
+Finally, a "gamified" achievement sound led me to make a climbing major scale that sounds like the user has won the lottery.
+
+**General guidelines:**
+The sounds should emulate the kitchen: Original prototypes were made using samples of real water sounds but sometimes a synthesiser is more effective than the real sound, thus this design was created with a watery synthesiser. It should be a pleasure to hear: Which has been accomplished with various major and upbeat tunes. It should optimised for a phone: taking form in the audio's high pitch(not relying on a strong bass in the phone speaker). 
 
 ---
 <style>
