@@ -144,12 +144,13 @@ Each earcon was composed in REAPER using the native FX including phasers,
 delays, and synthesisers. 
 
 FX breakdown screenshot:
+![scnee](/w9/Screenshot 2024-09-29 at 5.58.37 PM.png)
 
 The design of the earcon was made to mimic the sound of water and bubbles in association with cooking while also feeling modern and applicable to multiple buttons. The earcons mostly utilise higher pitch notes (1) to catch attention for alerts and alarms and (2) because there sounds were designed for the context of a phone speaker which often lacks bass and better represents higher frequencies.
 
 
 Scene screenshot:
-
+![scnee](/w9/Screenshot%202024-09-28%20at%208.39.50 PM.png)
 
 ## Reponce to client:
 **The brief requested:** 
