@@ -39,24 +39,27 @@ My first recordings included a bunch of other sounds like knives sharpening and 
 <head>
 </head>
 
+origional plop:
 <body>
     <audio controls>
   <source src="/w9/NEWSOUND_SoundAssignment2bubble.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
     </audio>
 
-
-
-origional plop:
-
-
 echo plop(which I though might make a good alarm sound):
-
+<audio controls>
+  <source src="/w9/NEWSOUND_SoundAssignment2-sample-echo.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+    </audio>
 
 plop with delay:
-
+<audio controls>
+  <source src="/w9/NEWSOUND_SoundAssignment2-sample-echo-tripple-note.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+    </audio>
 
 plop with delay FX pannel:
+![bubbble png](/w9/bubble.png)
 
 
 Then I tried running the smaple through a MIDI. I thought it was alright but it made me want to create the plop sound from scratch.
@@ -66,30 +69,49 @@ I followed this vedio (even though he didn't use REAPER, I tried my best to conv
 I was really satiffied with the sounds I produced but I wasn't sure how to utilise them in this project?!
 
 wobble/bubble sound:
-
+<audio controls>
+  <source src="/w9/NEWSOUND_SoundAssignment2-bubble-double-chord.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+    </audio>
 
 wobble/bubble FX pannel:
-
+![robot png](/w9/robot.png)
 
 Combining what I'd lernt about using delays and phasers I made a third test synth that sounded more profetional and practical. I had the duolingo sound effect in mind when I was making this one. still focussed on the water sound but more gerneral as to be applyed with multiple screens and still destictive. There was a little bit of the brief that talked about considering where the sound is being played from so i looked into what sounds most clear on phone speakers. I found that bass is terrable on most phone speakers to I deliberatly made my sounds higher pich and I imagein the app would use vibrations to add bass.
 
 polished synth tests:
+<audio controls>
+  <source src="/w9/NEWSOUND_SoundAssignment2-robotic-full-test.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+    </audio>
 
 
 Then finaly it was time to record the earcons. I have a **very** limited understanding of music theory but I was able to cobble together some major scales to give a positive vibe. obviously the achivment sound needed to build up and end on a high, the notification sound needed to be simple and ear catching, the alarm needed to be high pitched and repetable, and the opening sound needed to be a short jingle that also ended on a up beat.
 
 Final sounds:
 open/spash screen:
-
+<audio controls>
+  <source src="/w9/NEWSOUND_SoundAssignment2-final-open-sound.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+    </audio>
 
 notification:
-
+<audio controls>
+  <source src="/w9/NEWSOUND_SoundAssignment2-final-notification.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+    </audio>
 
 alarm:
-
+<audio controls>
+  <source src="/w9/NEWSOUND_SoundAssignment2-final-alarm.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+    </audio>
 
 achivment:
-
+<audio controls>
+  <source src="/w9/NEWSOUND_SoundAssignment2-final-achivment.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+    </audio>
 
 </body>
 
