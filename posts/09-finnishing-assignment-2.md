@@ -113,10 +113,14 @@ achivment:
   Your browser does not support the audio element.
     </audio>
 
-</body>
+
 
 <h2 style="color:CornflowerBlue;">Sound Diary Assingment 2</h2>
 
+In responce to the brief 
+
+
+</body>
 
 ---
 <style>
